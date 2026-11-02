@@ -1,0 +1,9 @@
+{
+  "python.defaultInterpreterPath": "C:\\Python314\\python.exe",
+  "python.analysis.extraPaths": [
+    "C:\\Users\\gongk\\AppData\\Roaming\\Python\\Python314\\site-packages",
+    "C:\\Python314\\Lib\\site-packages"
+  ],
+  "pyrefly.pythonPath": "C:\\Python314\\python.exe"
+}
+
